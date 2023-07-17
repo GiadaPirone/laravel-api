@@ -56,7 +56,7 @@
 
                             <li class="nav-item">
                                 <a class="nav-link text-white" href="{{route("admin.types.index")}}">
-                                    <i class="fa-solid fa-quote-left"></i> Visualizza Types Project
+                                    <i class="fa-solid fa-quote-left"></i> Visualizza Type Project
                                 </a>
                             </li>
 

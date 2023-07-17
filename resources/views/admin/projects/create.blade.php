@@ -30,7 +30,7 @@
         {{-- categoria --}}
         <div class="mb-3">
 
-            <label for="type_id">Categoria</label>
+            <label for="type_id">Tipes</label>
             <select class="form-control" name="type_id" id="type_id">
                 <option value="" selected disabled>Seleziona la categoria</option>
                 @foreach ($types as $type)
